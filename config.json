@@ -1,0 +1,7 @@
+{
+    "aternos_server": {
+        "ip": "192.168.0.1",          
+        "server_id": "your_server_id", 
+        "session_cookie": "your_session_cookie" 
+    }
+}
